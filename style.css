@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: #f7f7f7;
+    color: #333;
+}
+
+.container {
+    width: 960px;
+    margin: auto;
+}
+
+header{
+    margin-bottom: 48px;
+}
+.main-visual{
+ 
+    background-image:url(header_back.png);
+    background-size: cover;
+}
+
+
+.main-visual h1{
+    float:right;
+    height: 450px;
+    padding-top: 150px;
+}
+
+
